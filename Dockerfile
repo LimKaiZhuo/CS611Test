@@ -1,5 +1,5 @@
-# last updated Mar 25 2025, 11:00am
-FROM python:3.12-slim
+# last updated Mar 25 2025, 11:00am, free base images
+FROM python:3.12-slim  
 
 # Set the working directory
 WORKDIR /app
